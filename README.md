@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Projeto Harry - Raspberry Pi Pico W com BitDogLab
 
 Este documento apresenta a descrição detalhada, os procedimentos e as diretrizes para a correta execução e manutenção do projeto "Harry", desenvolvido utilizando a placa Raspberry Pi Pico W em conjunto com a BitDogLab. O projeto foi implementado em linguagem C, com o uso do SDK oficial do Raspberry Pi Pico (versão 1.5.1) e o ambiente de desenvolvimento Visual Studio Code.  
@@ -69,3 +70,7 @@ ssd1306_draw_image(harry_black);
 
 // Exibe a imagem branca no display OLED
 ssd1306_draw_image(harry_white);
+=======
+# Unidade_7
+um trabalho do embarca_tech
+>>>>>>> a67113a9b308655f4120f7f33511aa051d24dda8
